@@ -1,0 +1,1 @@
+pigz 支援 multithread壓縮的封裝程式
