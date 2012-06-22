@@ -1,0 +1,22 @@
+多媒體相關軟體 | Multimedia Related Software
+	螢幕畫面錄製軟體 | Screen Capture Software
+		RecordMyDesktop螢幕畫面錄製軟體
+		Istanbul螢幕畫面錄製軟體
+		XvidCap Screen Capture螢幕畫面錄製軟體
+		Kazam Screencaster螢幕畫面錄製軟體
+		Eidete螢幕畫面錄製軟體
+生產力軟體 | Productivity Software
+	軟體開發相關軟體 | Software Development Related Software
+		Web Development Software
+			Bluefish 主要適用於Web開發的純文字編輯器
+系統相關軟體 | System Related Software
+	作業系統載入程式 | Boot Loader
+		Burg 開機載入程式
+	可開機存儲媒體製作工具 | Bootable Media Making Tool
+		multisystems可開機隨身碟製作程式
+	系統管理軟體 | System Management Software
+		webmin Web介面的系統管理軟體
+	小型應用與輔助軟體 | Small or Accessory Software
+		pigz multithread方式壓縮的檔案封裝程式
+個人化軟體 | Customization Software
+	xsnow讓桌面具有聖誕動畫效果的程式

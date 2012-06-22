@@ -1,2 +1,0 @@
-pigz 支援 multithread壓縮的封裝程式
-xsnow 讓桌面具有聖誕動畫效果的程式
