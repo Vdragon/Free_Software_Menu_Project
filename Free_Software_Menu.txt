@@ -20,4 +20,8 @@
 	小型應用與輔助軟體 | Small or Accessory Software
 		pigz multithread方式壓縮的檔案封裝程式
 個人化軟體 | Customization Software
-	xsnow讓桌面具有聖誕動畫效果的程式
+	動畫效果相關軟體 | Animation Effect Related Software
+		xsnow讓桌面具有聖誕動畫效果的軟體
+	Dock軟體 | Dock Software
+		docky Dock軟體
+		Cairo-Dock Dock軟體

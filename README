@@ -1,3 +1,25 @@
-Open Source Software Menu Project
+自由軟體選單專案 | Free Software Menu Project
 
-There will be a nice README here, but right now someone has an arrow on his knee...
+注意！ | Attention!
+本專案收集的對象為「採用自由軟體授權條款」的軟體，非「免費」的軟體
+所有非自由軟體的項目將被刪除。
+
+專案介紹 | Project Introduction
+常常發現好用的自由軟體怕忘了它嗎？
+歡迎加入「自由軟體選單專案 | Free Software Menu Project」的共同開發！
+本專案收集各種您發現到的自由軟體，並將其分門別類
+短期目標是可以提供各種軟體的建議
+長期目標是要建立一個品質優良的軟體的「選單」，讓使用者在Linux上搜尋軟體更加直覺便利
+
+專案網址 | Project URL
+https://github.com/Vdragon/Free_Software_Menu_Project
+
+提交軟體方式 | Ways to commit software entry
+1.（建議）申請GitHub帳號後向我要求 push權限 使用 Git版本控制系統 clone 原始程式碼倉庫(repository)下來，修改之後直接push回去
+
+2.申請GitHub帳號後至專案的 Issue追蹤系統 新建Issue回報！
+https://github.com/Vdragon/Free_Software_Menu_Project/issues
+
+3.直接透過各種管道通知我也可以
+
+至少要俱備自由軟體的全名以及其官方釋出網頁網址
