@@ -1,3 +1,6 @@
+檔案管理軟體 | File Management Software
+	Dolphin檔案管理軟體
+	Nautilus檔案管理軟體
 多媒體相關軟體 | Multimedia Related Software
 	螢幕畫面錄製軟體 | Screen Capture Software
 		RecordMyDesktop螢幕畫面錄製軟體
@@ -6,19 +9,51 @@
 		Kazam Screencaster螢幕畫面錄製軟體
 		Eidete螢幕畫面錄製軟體
 			https://launchpad.net/eidete
+網路相關軟體 | Network Related Software
+	Web瀏覽器 | Web Browsers
+		Mozilla Firefox Web瀏覽器
+		Chromium網頁瀏覽器
+	FTP客戶端軟體 | FTP Client Software
+		FileZilla FTP客戶端軟體
+	伺服器軟體 | Server Software
+		Apache Web伺服器軟體
+		FileZilla FTP伺服器軟體
 生產力軟體 | Productivity Software
+	純文字編輯器 | Plaintext Editors
+		Kate純文字編輯器
+		Gedit純文字編輯器
+		Notepad++純文字編輯器
+		Vim純文字編輯器
 	軟體開發相關軟體 | Software Development Related Software
-		Web Development Software
+		Web開發相關軟體 | Web Development Related Software
 			Bluefish 主要適用於Web開發的純文字編輯器
+		整合式開發環境 | Integrated Development Environment
+			Code::Blocks C/C++整合式開發環境
+			Eclipse整合式開發環境
 系統相關軟體 | System Related Software
-	作業系統載入程式 | Boot Loader
-		Burg 開機載入程式
-	可開機存儲媒體製作工具 | Bootable Media Making Tool
-		multisystems可開機隨身碟製作程式
+	作業系統 | Operating Systems
+		Ubuntu Linux散佈版本
+	作業系統載入程式 | Boot Loaders
+		Burg開機載入程式
+		Grub開機載入程式
+	開機修復軟體 | Boot Recovery Software
+		Boot-Repair開機修復軟體
+	可開機存儲媒體製作工具 | Bootable Media Making Tools
+		multisystems可開機媒體製作程式
+		unetbootin可開機媒體製作程式
 	系統管理軟體 | System Management Software
 		webmin Web介面的系統管理軟體
 	小型應用與輔助軟體 | Small or Accessory Software
-		pigz multithread方式壓縮的檔案封裝程式
+		pigz 以multithread方式壓縮的檔案封裝程式
+	桌面環境 | Desktop Environment
+		K桌面環境(KDE)
+		GNOME桌面環境
+		Unity 3D桌面環境
+		Unity 2D桌面環境
+		LXDE桌面環境
+	終端機模擬軟體 | Terminal Emulator Software
+		GNOME終端機模擬軟體
+		Konsole終端機模擬軟體
 個人化軟體 | Customization Software
 	動畫效果相關軟體 | Animation Effect Related Software
 		xsnow讓桌面具有聖誕動畫效果的軟體
