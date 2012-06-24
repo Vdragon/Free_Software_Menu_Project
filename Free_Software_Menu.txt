@@ -43,8 +43,6 @@
 		unetbootin可開機媒體製作程式
 	系統管理軟體 | System Management Software
 		webmin Web介面的系統管理軟體
-	小型應用與輔助軟體 | Small or Accessory Software
-		pigz 以multithread方式壓縮的檔案封裝程式
 	桌面環境 | Desktop Environment
 		K桌面環境(KDE)
 		GNOME桌面環境
@@ -60,3 +58,5 @@
 	Dock軟體 | Dock Software
 		docky Dock軟體
 		Cairo-Dock Dock軟體
+小型應用與輔助軟體 | Small or Accessory Software
+	pigz 以multithread方式壓縮的檔案封裝程式
