@@ -1,6 +1,3 @@
-檔案管理軟體 | File Management Software
-	Dolphin檔案管理軟體
-	Nautilus檔案管理軟體
 多媒體相關軟體 | Multimedia Related Software
 	螢幕畫面錄製軟體 | Screen Capture Software
 		RecordMyDesktop螢幕畫面錄製軟體
@@ -9,6 +6,10 @@
 		Kazam Screencaster螢幕畫面錄製軟體
 		Eidete螢幕畫面錄製軟體
 			https://launchpad.net/eidete
+	多媒體播放軟體 | Multimedia Player
+		XMBC多媒體播放軟體
+		banshee影音播放器
+		VLC影音播放器
 網路相關軟體 | Network Related Software
 	Web瀏覽器 | Web Browsers
 		Mozilla Firefox Web瀏覽器
@@ -18,6 +19,8 @@
 	伺服器軟體 | Server Software
 		Apache Web伺服器軟體
 		FileZilla FTP伺服器軟體
+	網路掃描工具 | Network Scanner
+		Autoscan-Network網路掃描工具
 生產力軟體 | Productivity Software
 	純文字編輯器 | Plaintext Editors
 		Kate純文字編輯器
@@ -30,6 +33,8 @@
 		整合式開發環境 | Integrated Development Environment
 			Code::Blocks C/C++整合式開發環境
 			Eclipse整合式開發環境
+	虛擬機器軟體 | Virtual Machines
+		VirtualBox虛擬機器軟體
 系統相關軟體 | System Related Software
 	作業系統 | Operating Systems
 		Ubuntu Linux散佈版本
@@ -59,4 +64,9 @@
 		docky Dock軟體
 		Cairo-Dock Dock軟體
 小型應用與輔助軟體 | Small or Accessory Software
-	pigz 以multithread方式壓縮的檔案封裝程式
+	檔案封裝程式 | File Archiver
+		pigz 以multithread方式gzip壓縮的檔案封裝程式
+		7zip多格式支援檔案封裝程式
+	檔案管理軟體 | File Management Software
+		Dolphin檔案管理軟體
+		Nautilus檔案管理軟體
