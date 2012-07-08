@@ -10,6 +10,9 @@
 		XMBC多媒體播放軟體
 		banshee影音播放器
 		VLC影音播放器
+	網路攝影機相關軟體 | Webcam Related Software
+		guvcview網路攝影機照相／錄影軟體
+		Cheese網路攝影機照相／錄影軟體
 網路相關軟體 | Network Related Software
 	Web瀏覽器 | Web Browsers
 		Mozilla Firefox Web瀏覽器
