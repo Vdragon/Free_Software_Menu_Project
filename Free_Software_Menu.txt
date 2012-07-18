@@ -10,9 +10,14 @@
 		XMBC多媒體播放軟體
 		banshee影音播放器
 		VLC影音播放器
+		FBreader電子書閱讀軟體
 	網路攝影機相關軟體 | Webcam Related Software
 		guvcview網路攝影機照相／錄影軟體
 		Cheese網路攝影機照相／錄影軟體
+	光碟燒錄／備份軟體 | Disk Burning/Backup Software
+		K3B光碟燒錄／備份軟體
+	圖像掃描軟體 | Graphic Scanning Software
+		XSane圖像掃描軟體
 網路相關軟體 | Network Related Software
 	Web瀏覽器 | Web Browsers
 		Mozilla Firefox Web瀏覽器
@@ -24,6 +29,9 @@
 		FileZilla FTP伺服器軟體
 	網路掃描工具 | Network Scanner
 		Autoscan-Network網路掃描工具
+	即時通訊／線上聊天室軟體 | Instant Messaging/Online Chatting Software
+		Pidgin即時通訊軟體
+		Empathy即時通訊軟體
 生產力軟體 | Productivity Software
 	純文字編輯器 | Plaintext Editors
 		Kate純文字編輯器
@@ -38,6 +46,20 @@
 			Eclipse整合式開發環境
 	虛擬機器軟體 | Virtual Machines
 		VirtualBox虛擬機器軟體
+	繪圖軟體 | Drawing Software
+		GIMP繪圖軟體
+	辦公室應用套裝軟體 | Office Application Software Suite
+		LibreOffice辦公室應用套裝軟體
+			LibreOffice Writer文書處理軟體
+			LibreOffice Draw向量圖繪圖軟體
+			LibreOffice Impress簡報軟體
+			LibreOffice Calc試算表軟體
+			LibreOffice Math方程式編輯器軟體
+		Calligra辦公室應用套裝軟體
+			Calligra Words文書處理軟體
+			Calligra Sheets試算表軟體
+			Calligra Flow流程圖製作軟體
+			Calligra Plan專案管理軟體
 系統相關軟體 | System Related Software
 	作業系統 | Operating Systems
 		Ubuntu Linux散佈版本
@@ -51,6 +73,7 @@
 		unetbootin可開機媒體製作程式
 	系統管理軟體 | System Management Software
 		webmin Web介面的系統管理軟體
+		GNOME控制中心
 	桌面環境 | Desktop Environment
 		K桌面環境(KDE)
 		GNOME桌面環境
@@ -60,6 +83,16 @@
 	終端機模擬軟體 | Terminal Emulator Software
 		GNOME終端機模擬軟體
 		Konsole終端機模擬軟體
+	電腦虛擬化軟體 | Computer Virtualization Software
+		VirtualBox電腦虛擬化軟體
+		qemu電腦虛擬化軟體
+	顯示管理員軟體 | Display Manager Software
+		LightDM顯示管理員軟體
+		GDM顯示管理員軟體
+		KDM顯示管理員軟體
+	工作管理員 | Task Manager
+		htop工作管理員
+		top工作管理員
 個人化軟體 | Customization Software
 	動畫效果相關軟體 | Animation Effect Related Software
 		xsnow讓桌面具有聖誕動畫效果的軟體
@@ -73,3 +106,12 @@
 	檔案管理軟體 | File Management Software
 		Dolphin檔案管理軟體
 		Nautilus檔案管理軟體
+裝置相關軟體 | Device Related Software
+	MTP裝置管理程式 | MTP Device Management Software
+		qlix MTP裝置管理程式
+		gMTP MTP裝置管理程式
+遊戲相關軟體 | Game software
+	遊戲機模擬器軟體 | Game Console Emulator
+	邏輯／戰略遊戲
+		KNetWalk網路連線連接模擬軟體
+	
