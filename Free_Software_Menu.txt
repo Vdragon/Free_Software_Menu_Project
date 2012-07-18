@@ -75,7 +75,7 @@
 		webmin Web介面的系統管理軟體
 		GNOME控制中心
 	桌面環境 | Desktop Environment
-		K桌面環境(KDE)
+		KDE Plasma桌面環境
 		GNOME桌面環境
 		Unity 3D桌面環境
 		Unity 2D桌面環境
