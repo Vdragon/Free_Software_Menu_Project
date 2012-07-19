@@ -93,6 +93,8 @@
 	工作管理員 | Task Manager
 		htop工作管理員
 		top工作管理員
+	按鍵對應設定軟體
+		keyTouch Editor按鍵對應設定編輯器
 個人化軟體 | Customization Software
 	動畫效果相關軟體 | Animation Effect Related Software
 		xsnow讓桌面具有聖誕動畫效果的軟體
