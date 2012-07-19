@@ -106,7 +106,7 @@
 		docky Dock軟體
 		Cairo-Dock Dock軟體
 小型應用與輔助軟體 | Small or Accessory Software
-	檔案封裝程式 | File Archiver
+	檔案封裝／壓縮程式 | File Archiver/Compresser
 		pigz 以multithread方式進行gzip壓縮的檔案壓縮程式
 		pbzip2 以multithread方式進行bzip2壓縮的檔案壓縮程式
 		7zip多格式支援檔案封裝程式
