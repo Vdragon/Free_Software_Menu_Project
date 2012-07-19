@@ -68,9 +68,6 @@
 		Grub開機載入程式
 	開機修復軟體 | Boot Recovery Software
 		Boot-Repair開機修復軟體
-	可開機存儲媒體製作工具 | Bootable Media Making Tools
-		multisystems可開機媒體製作程式
-		unetbootin可開機媒體製作程式
 	系統管理軟體 | System Management Software
 		webmin Web介面的系統管理軟體
 		GNOME控制中心
@@ -93,12 +90,6 @@
 	工作管理員 | Task Manager
 		htop工作管理員
 		top工作管理員
-	按鍵對應設定軟體
-		keyTouch Editor按鍵對應設定編輯器
-	品牌電腦專有功能支援軟體
-		Lapsus筆記型電腦專有功能支援軟體
-			專案網站
-				http://lapsus.berlios.de/
 個人化軟體 | Customization Software
 	動畫效果相關軟體 | Animation Effect Related Software
 		xsnow讓桌面具有聖誕動畫效果的軟體
@@ -117,6 +108,15 @@
 	MTP裝置管理程式 | MTP Device Management Software
 		qlix MTP裝置管理程式
 		gMTP MTP裝置管理程式
+	按鍵對應設定軟體
+		keyTouch Editor按鍵對應設定編輯器
+	品牌電腦專有功能支援軟體
+		Lapsus筆記型電腦專有功能支援軟體
+			專案網站
+				http://lapsus.berlios.de/
+	可開機存儲媒體製作工具 | Bootable Media Making Tools
+		multisystems可開機媒體製作程式
+		unetbootin可開機媒體製作程式
 遊戲相關軟體 | Game software
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲
