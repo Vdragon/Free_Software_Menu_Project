@@ -117,6 +117,12 @@
 	可開機存儲媒體製作工具 | Bootable Media Making Tools
 		multisystems可開機媒體製作程式
 		unetbootin可開機媒體製作程式
+	觸控裝置校正工具 | Touch Device Calibration Tools
+		xinput calibrator觸控螢幕校正工具
+			官方網站
+				http://www.freedesktop.org/wiki/Software/xinput_calibrator
+			軟體問題追蹤系統
+				https://github.com/tias/xinput_calibrator/issues
 遊戲相關軟體 | Game software
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲
