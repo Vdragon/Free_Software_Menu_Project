@@ -95,6 +95,10 @@
 		top工作管理員
 	按鍵對應設定軟體
 		keyTouch Editor按鍵對應設定編輯器
+	品牌電腦專有功能支援軟體
+		Lapsus筆記型電腦專有功能支援軟體
+			專案網站
+				http://lapsus.berlios.de/
 個人化軟體 | Customization Software
 	動畫效果相關軟體 | Animation Effect Related Software
 		xsnow讓桌面具有聖誕動畫效果的軟體
