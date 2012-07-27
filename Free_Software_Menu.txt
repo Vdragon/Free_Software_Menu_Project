@@ -64,6 +64,10 @@
 		GnuCash財務管理軟體
 			官方網站 | Official Site
 				http://www.gnucash.org/
+	醫療相關軟體
+		GNUmed醫療管理系統
+			官方網站 | Official Site
+				http://wiki.gnumed.de/bin/view/Gnumed/WebHome
 系統相關軟體 | System Related Software
 	作業系統 | Operating Systems
 		Ubuntu Linux散佈版本
