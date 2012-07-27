@@ -60,6 +60,10 @@
 			Calligra Sheets試算表軟體
 			Calligra Flow流程圖製作軟體
 			Calligra Plan專案管理軟體
+	財務管理軟體
+		GnuCash財務管理軟體
+			官方網站 | Official Site
+				http://www.gnucash.org/
 系統相關軟體 | System Related Software
 	作業系統 | Operating Systems
 		Ubuntu Linux散佈版本
