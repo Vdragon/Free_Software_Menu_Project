@@ -68,6 +68,9 @@
 		GNUmed醫療管理系統
 			官方網站 | Official Site
 				http://wiki.gnumed.de/bin/view/Gnumed/WebHome
+	ASCII文字圖像製作工具
+		figlet ASCII文字圖像製作工具
+		toilet ASCII文字圖像製作工具
 系統相關軟體 | System Related Software
 	作業系統 | Operating Systems
 		Ubuntu Linux散佈版本
