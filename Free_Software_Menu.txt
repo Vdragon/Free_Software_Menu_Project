@@ -105,6 +105,9 @@
 		Synaptic軟體包裹管理程式
 		apt-fast多thread下載APT前端工具
 		apt-get APT軟體包裹管理系統前端工具
+	資料備份軟體 | Data Backup Software
+		FSarchiver基於檔案的磁碟分割區備份工具
+		再生龍(CloneZilla) - 基於區塊裝置(block device)的磁碟／磁碟分割驅備份工具
 個人化軟體 | Customization Software
 	動畫效果相關軟體 | Animation Effect Related Software
 		xsnow讓桌面具有聖誕動畫效果的軟體
