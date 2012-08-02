@@ -137,6 +137,6 @@
 				https://github.com/tias/xinput_calibrator/issues
 遊戲相關軟體 | Game software
 	遊戲機模擬器軟體 | Game Console Emulator
-	邏輯／戰略遊戲
+	邏輯／戰略遊戲 | Logic/Strategy Game
 		KNetWalk網路連線連接模擬軟體
 	
