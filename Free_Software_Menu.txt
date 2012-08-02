@@ -149,4 +149,8 @@
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲 | Logic/Strategy Game
 		KNetWalk網路連線連接模擬軟體
-	
+文句查詢／翻譯與轉碼軟體
+	convmv檔案名稱文字編碼轉換工具
+程式執行平台 | Program Execution Platform
+	Python直譯器
+	Wine Windows平台程式相容層
