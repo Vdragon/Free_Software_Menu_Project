@@ -29,9 +29,16 @@
 		FileZilla FTP伺服器軟體
 	網路掃描工具 | Network Scanner
 		Autoscan-Network網路掃描工具
+	網路監聽工具 | Network Sniffer
+		EtherApe網路監聽工具
 	即時通訊／線上聊天室軟體 | Instant Messaging/Online Chatting Software
 		Pidgin即時通訊軟體
 		Empathy即時通訊軟體
+	遠端終端機軟體 | Remote Terminal Software
+		Putty遠端終端機軟體
+		PCmanX BBS客戶端軟體
+		OpenSSH遠端終端機客戶端軟體
+		Telnet遠端終端機客戶端軟體
 生產力軟體 | Productivity Software
 	純文字編輯器 | Plaintext Editors
 		Kate純文字編輯器
@@ -149,6 +156,8 @@
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲 | Logic/Strategy Game
 		KNetWalk網路連線連接模擬軟體
+	競速遊戲 | Racing Game
+		Supertuxkart賽車遊戲
 文句查詢／翻譯與轉碼軟體
 	convmv檔案名稱文字編碼轉換工具
 程式執行平台 | Program Execution Platform
