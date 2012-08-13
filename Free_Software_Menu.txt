@@ -98,6 +98,9 @@
 	終端機模擬軟體 | Terminal Emulator Software
 		GNOME終端機模擬軟體
 		Konsole終端機模擬軟體
+		TTY終端機模擬軟體
+		xterm終端機模擬軟體
+		byobu終端機模擬軟體
 	電腦虛擬化軟體 | Computer Virtualization Software
 		VirtualBox電腦虛擬化軟體
 		qemu電腦虛擬化軟體
@@ -156,6 +159,7 @@
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲 | Logic/Strategy Game
 		KNetWalk網路連線連接模擬軟體
+		0A.D.文明戰略遊戲
 	競速遊戲 | Racing Game
 		Supertuxkart賽車遊戲
 文句查詢／翻譯與轉碼軟體
