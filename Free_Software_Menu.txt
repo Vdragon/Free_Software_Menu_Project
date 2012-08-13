@@ -80,7 +80,13 @@
 		toilet ASCII文字圖像製作工具
 系統相關軟體 | System Related Software
 	作業系統 | Operating Systems
-		Ubuntu Linux散佈版本
+		GNU/Linux作業系統Ubuntu散佈版本
+		GNU/Linux作業系統Linux Mint散佈版本
+		GNU/Linux作業系統Fedora散佈版本
+		FreeBSD作業系統
+		FreeDOS作業系統
+		GNU/Hurd作業系統
+		Android作業系統
 	作業系統載入程式 | Boot Loaders
 		Burg開機載入程式
 		Grub開機載入程式
