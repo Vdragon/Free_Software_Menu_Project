@@ -18,6 +18,12 @@
 		K3B光碟燒錄／備份軟體
 	圖像掃描軟體 | Graphic Scanning Software
 		XSane圖像掃描軟體
+	桌面背景圖案（桌布）相關軟體 | Desktop Wallpaper Related Software
+		Variety桌面背景圖案（桌布）替換軟體
+			官方網站 | Official Website
+				https://launchpad.net/variety
+			官方Launchpad.net PPA未知版本軟體來源
+				https://launchpad.net/~peterlevi/+archive/ppa
 網路相關軟體 | Network Related Software
 	Web瀏覽器 | Web Browsers
 		Mozilla Firefox Web瀏覽器
@@ -78,6 +84,10 @@
 	ASCII文字圖像製作工具
 		figlet ASCII文字圖像製作工具
 		toilet ASCII文字圖像製作工具
+	大字報產生工具
+		sm大字報產生工具
+	食譜相關軟體 | Recipe Related Software
+		Gourmet 食譜管理工具
 系統相關軟體 | System Related Software
 	作業系統 | Operating Systems
 		GNU/Linux作業系統Ubuntu散佈版本
@@ -173,3 +183,9 @@
 程式執行平台 | Program Execution Platform
 	Python直譯器
 	Wine Windows平台程式相容層
+	PlayOnLinux Wine Windows平台程式相容層前端(frontend)程式
+		描述 | Description
+			能降低Wine Windows平台程式相容層 使用障礙的軟體
+		官方網站
+			http://www.playonlinux.com/
+	
