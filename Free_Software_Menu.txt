@@ -24,6 +24,10 @@
 				https://launchpad.net/variety
 			官方Launchpad.net PPA未知版本軟體來源
 				https://launchpad.net/~peterlevi/+archive/ppa
+	字元編碼相關工具 | Character Encoding Related Software
+		enca字元編碼偵測／轉換工具
+		iconv字元編碼轉換工具
+		recode字元編碼轉換工具
 網路相關軟體 | Network Related Software
 	Web瀏覽器 | Web Browsers
 		Mozilla Firefox Web瀏覽器
@@ -87,7 +91,7 @@
 	大字報產生工具
 		sm大字報產生工具
 	食譜相關軟體 | Recipe Related Software
-		Gourmet 食譜管理工具
+		Gourmet食譜管理工具
 系統相關軟體 | System Related Software
 	作業系統 | Operating Systems
 		GNU/Linux作業系統Ubuntu散佈版本
