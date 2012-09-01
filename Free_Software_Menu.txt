@@ -175,6 +175,13 @@
 				http://www.freedesktop.org/wiki/Software/xinput_calibrator
 			軟體問題追蹤系統
 				https://github.com/tias/xinput_calibrator/issues
+	磁碟相關軟體 | Disk Related Software
+		檔案系統去分散(defragmentation)軟體 | Filesystem Defragmentation Software
+			Shake檔案系統去分散(defragmentation)軟體
+				官方網站 | Official Site
+					http://www.vleu.net/shake/
+				官方釋出版本軟體來源
+					https://launchpad.net/~un-brice/+archive/ppa
 遊戲相關軟體 | Game software
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲 | Logic/Strategy Game
