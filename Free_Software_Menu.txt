@@ -61,6 +61,7 @@
 		整合式開發環境 | Integrated Development Environment
 			Code::Blocks C/C++整合式開發環境
 			Eclipse整合式開發環境
+			Dev C++整合式開發環境
 	虛擬機器軟體 | Virtual Machines
 		VirtualBox虛擬機器軟體
 	繪圖軟體 | Drawing Software
