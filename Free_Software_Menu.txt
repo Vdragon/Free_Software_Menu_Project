@@ -123,6 +123,10 @@
 		Unity 3D桌面環境
 		Unity 2D桌面環境
 		LXDE桌面環境
+		Cinnamon桌面環境
+			官方穩定版本 PPA 軟體來源
+				https://launchpad.net/~gwendal-lebihan-dev/+archive/cinnamon-stable
+				ppa:gwendal-lebihan-dev/cinnamon-stable
 	終端機模擬軟體 | Terminal Emulator Software
 		GNOME終端機模擬軟體
 		Konsole終端機模擬軟體
