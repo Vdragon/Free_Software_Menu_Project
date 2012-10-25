@@ -94,6 +94,13 @@
 	食譜相關軟體 | Recipe Related Software
 		Gourmet食譜管理工具
 系統相關軟體 | System Related Software
+	系統設定輔助軟體 | System setting auxilary software
+		Ubuntu Tweak ubuntu GNU/Linux散佈版本設定輔助軟體
+			官方網站 | Official site
+				http://ubuntu-tweak.com/
+			官方穩定版本 PPA 軟體來源
+				https://launchpad.net/~tualatrix/+archive/ppa
+				ppa:tualatrix/ppa
 	作業系統 | Operating Systems
 		GNU/Linux作業系統Ubuntu散佈版本
 		GNU/Linux作業系統Linux Mint散佈版本
@@ -149,6 +156,13 @@
 	Dock軟體 | Dock Software
 		docky Dock軟體
 		Cairo-Dock Dock軟體
+	圖示主題 | Icon theme
+		Faenza icon theme
+			官方網站 | Official site
+				http://code.google.com/p/faenza-icon-theme/
+			PPA軟體來源
+				equinox : Matthieu James
+					https://launchpad.net/~tiheum/+archive/equinox
 小型應用與輔助軟體 | Small or Accessory Software
 	檔案封裝／壓縮程式 | File Archiver/Compresser
 		pigz 以multithread方式進行gzip壓縮的檔案壓縮程式
