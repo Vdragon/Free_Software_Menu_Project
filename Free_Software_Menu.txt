@@ -205,7 +205,12 @@
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲 | Logic/Strategy Game
 		KNetWalk網路連線連接模擬軟體
-		0A.D.文明戰略遊戲
+		0 A.D.文明發展戰略遊戲
+			官方網站 | Official Site
+				http://www.wildfiregames.com/0ad/
+			官方釋出版本軟體來源
+				https://launchpad.net/~wfg/+archive/0ad
+				ppa:wfg/0ad
 	競速遊戲 | Racing Game
 		Supertuxkart賽車遊戲
 文句查詢／翻譯與轉碼軟體
