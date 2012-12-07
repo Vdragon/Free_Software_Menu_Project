@@ -130,7 +130,7 @@
 		Razor-qt 桌面環境
 			官方網站
 				http://razor-qt.org/
-			官方 PPA 軟體來源
+			官方穩定版本 PPA 軟體來源
 				https://launchpad.net/~razor-qt/+archive/ppa/
 	終端機模擬軟體 | Terminal Emulator Software
 		GNOME終端機模擬軟體
