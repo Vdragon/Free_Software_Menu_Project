@@ -34,6 +34,12 @@
 		Chromium網頁瀏覽器
 	FTP客戶端軟體 | FTP Client Software
 		FileZilla FTP客戶端軟體
+	Microblogging 客戶端軟體
+		Hotot Microblogging 客戶端軟體
+			官方 PPA 軟體來源
+				ppa:hotot-team
+			官方網站
+				http://www.hotot.org/
 	伺服器軟體 | Server Software
 		Apache Web伺服器軟體
 		FileZilla FTP伺服器軟體
