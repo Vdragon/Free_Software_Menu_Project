@@ -178,7 +178,7 @@
 			PPA軟體來源
 				equinox : Matthieu James
 					https://launchpad.net/~tiheum/+archive/equinox
-小型應用與輔助軟體 | Small or Accessory Software
+檔案／目錄相關軟體 | File/directory related software
 	檔案封裝／壓縮程式 | File Archiver/Compresser
 		pigz 以multithread方式進行gzip壓縮的檔案壓縮程式
 		pbzip2 以multithread方式進行bzip2壓縮的檔案壓縮程式
