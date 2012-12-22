@@ -1,39 +1,39 @@
 多媒體相關軟體 | Multimedia Related Software
 	螢幕畫面錄製軟體 | Screen Capture Software
-		RecordMyDesktop螢幕畫面錄製軟體
-		Istanbul螢幕畫面錄製軟體
-		XvidCap Screen Capture螢幕畫面錄製軟體
-		Kazam Screencaster螢幕畫面錄製軟體
-		Eidete螢幕畫面錄製軟體
+		RecordMyDesktop 螢幕畫面錄製軟體
+		Istanbul 螢幕畫面錄製軟體
+		XvidCap Screen Capture 螢幕畫面錄製軟體
+		Kazam Screencaster 螢幕畫面錄製軟體
+		Eidete 螢幕畫面錄製軟體
 			https://launchpad.net/eidete
 	多媒體播放軟體 | Multimedia Player
-		XMBC多媒體播放軟體
-		banshee影音播放器
-		VLC影音播放器
-		FBreader電子書閱讀軟體
+		XMBC 多媒體播放軟體
+		banshee 影音播放器
+		VLC 影音播放器
+		FBreader 電子書閱讀軟體
 	網路攝影機相關軟體 | Webcam Related Software
-		guvcview網路攝影機照相／錄影軟體
-		Cheese網路攝影機照相／錄影軟體
+		guvcview 網路攝影機照相／錄影軟體
+		Cheese 網路攝影機照相／錄影軟體
 	光碟燒錄／備份軟體 | Disk Burning/Backup Software
-		K3B光碟燒錄／備份軟體
+		K3B 光碟燒錄／備份軟體
 	圖像掃描軟體 | Graphic Scanning Software
-		XSane圖像掃描軟體
+		XSane 圖像掃描軟體
 	桌面背景圖案（桌布）相關軟體 | Desktop Wallpaper Related Software
-		Variety桌面背景圖案（桌布）替換軟體
+		Variety 桌面背景圖案（桌布）替換軟體
 			官方網站 | Official Website
 				https://launchpad.net/variety
 			官方Launchpad.net PPA未知版本軟體來源
 				https://launchpad.net/~peterlevi/+archive/ppa
 	字元編碼相關工具 | Character Encoding Related Software
-		enca字元編碼偵測／轉換工具
-		iconv字元編碼轉換工具
-		recode字元編碼轉換工具
+		enca 字元編碼偵測／轉換工具
+		iconv 字元編碼轉換工具
+		recode 字元編碼轉換工具
 網路相關軟體 | Network Related Software
 	Web瀏覽器 | Web Browsers
-		Mozilla Firefox Web瀏覽器
-		Chromium網頁瀏覽器
+		Mozilla Firefox Web 瀏覽器
+		Chromium 網頁瀏覽器
 	FTP客戶端軟體 | FTP Client Software
-		FileZilla FTP客戶端軟體
+		FileZilla FTP 客戶端軟體
 	Microblogging 客戶端軟體
 		Hotot Microblogging 客戶端軟體
 			官方 PPA 軟體來源
@@ -41,66 +41,66 @@
 			官方網站
 				http://www.hotot.org/
 	伺服器軟體 | Server Software
-		Apache Web伺服器軟體
-		FileZilla FTP伺服器軟體
+		Apache Web 伺服器軟體
+		FileZilla FTP 伺服器軟體
 	網路掃描工具 | Network Scanner
-		Autoscan-Network網路掃描工具
+		Autoscan-Network 網路掃描工具
 	網路監聽工具 | Network Sniffer
-		EtherApe網路監聽工具
+		EtherApe 網路監聽工具
 	即時通訊／線上聊天室軟體 | Instant Messaging/Online Chatting Software
-		Pidgin即時通訊軟體
-		Empathy即時通訊軟體
+		Pidgin 即時通訊軟體
+		Empathy 即時通訊軟體
 	遠端終端機軟體 | Remote Terminal Software
-		Putty遠端終端機軟體
-		PCmanX BBS客戶端軟體
-		OpenSSH遠端終端機客戶端軟體
-		Telnet遠端終端機客戶端軟體
+		Putty 遠端終端機軟體
+		PCmanX BBS 客戶端軟體
+		OpenSSH 遠端終端機客戶端軟體
+		Telnet 遠端終端機客戶端軟體
 	網路文字上傳空間客戶端軟體
 		pastebinit 網路文字上傳空間客戶端軟體
 生產力軟體 | Productivity Software
 	純文字編輯器 | Plaintext Editors
-		Kate純文字編輯器
-		Gedit純文字編輯器
-		Notepad++純文字編輯器
-		Vim純文字編輯器
+		Kate 純文字編輯器
+		Gedit 純文字編輯器
+		Notepad++ 純文字編輯器
+		Vim 純文字編輯器
 	軟體開發相關軟體 | Software Development Related Software
 		Web開發相關軟體 | Web Development Related Software
 			Bluefish 主要適用於Web開發的純文字編輯器
 		整合式開發環境 | Integrated Development Environment
-			Code::Blocks C/C++整合式開發環境
-			Eclipse整合式開發環境
-			Dev C++整合式開發環境
+			Code::Blocks C/C++ 整合式開發環境
+			Eclipse 整合式開發環境
+			Dev C++ 整合式開發環境
 	虛擬機器軟體 | Virtual Machines
-		VirtualBox虛擬機器軟體
+		VirtualBox 虛擬機器軟體
 	繪圖軟體 | Drawing Software
-		GIMP繪圖軟體
+		GIMP 繪圖軟體
 	辦公室應用套裝軟體 | Office Application Software Suite
 		LibreOffice辦公室應用套裝軟體
-			LibreOffice Writer文書處理軟體
-			LibreOffice Draw向量圖繪圖軟體
-			LibreOffice Impress簡報軟體
-			LibreOffice Calc試算表軟體
-			LibreOffice Math方程式編輯器軟體
+			LibreOffice Writer 文書處理軟體
+			LibreOffice Draw 向量圖繪圖軟體
+			LibreOffice Impress 簡報軟體
+			LibreOffice Calc 試算表軟體
+			LibreOffice Math 方程式編輯器軟體
 		Calligra辦公室應用套裝軟體
-			Calligra Words文書處理軟體
-			Calligra Sheets試算表軟體
-			Calligra Flow流程圖製作軟體
-			Calligra Plan專案管理軟體
+			Calligra WordGNU/Linux 作業系統s 文書處理軟體
+			Calligra Sheets 試算表軟體
+			Calligra Flow 流程圖製作軟體
+			Calligra Plan 專案管理軟體
 	財務管理軟體
-		GnuCash財務管理軟體
+		GnuCash 財務管理軟體
 			官方網站 | Official Site
 				http://www.gnucash.org/
 	醫療相關軟體
-		GNUmed醫療管理系統
+		GNUmed 醫療管理系統
 			官方網站 | Official Site
 				http://wiki.gnumed.de/bin/view/Gnumed/WebHome
 	ASCII文字圖像製作工具
-		figlet ASCII文字圖像製作工具
-		toilet ASCII文字圖像製作工具
+		figlet ASCII 文字圖像製作工具
+		toilet ASCII 文字圖像製作工具
 	大字報產生工具
-		sm大字報產生工具
+		sm 大字報產生工具
 	食譜相關軟體 | Recipe Related Software
-		Gourmet食譜管理工具
+		Gourmet 食譜管理工具
 	剪貼簿相關軟體
 		xclip 剪貼簿存取軟體
 	標籤語言編輯器
@@ -109,35 +109,37 @@
 				https://launchpad.net/~mitya57/+archive/ppa
 系統相關軟體 | System Related Software
 	系統設定輔助軟體 | System setting auxilary software
-		Ubuntu Tweak ubuntu GNU/Linux散佈版本設定輔助軟體
+		Ubuntu Tweak ubuntu GNU/Linux 散佈版設定輔助軟體
 			官方網站 | Official site
 				http://ubuntu-tweak.com/
 			官方穩定版本 PPA 軟體來源
 				https://launchpad.net/~tualatrix/+archive/ppa
 				ppa:tualatrix/ppa
+	作業系統核心 | Operating System kernel
+		GNU/Linux 作業系統核心
+		GNU/Hurd 作業系統核心
 	作業系統 | Operating Systems
-		GNU/Linux作業系統Ubuntu散佈版本
-		GNU/Linux作業系統Linux Mint散佈版本
-		GNU/Linux作業系統Fedora散佈版本
-		FreeBSD作業系統
-		FreeDOS作業系統
-		GNU/Hurd作業系統
-		Android作業系統
+		GNU/Linux 作業系統 Ubuntu散佈版本
+		GNU/Linux 作業系統 Linux Mint散佈版本
+		GNU/Linux 作業系統 Fedora散佈版本
+		FreeBSD 作業系統
+		FreeDOS 作業系統
+		Android 作業系統
 	作業系統載入程式 | Boot Loaders
-		Burg開機載入程式
-		Grub開機載入程式
+		Burg 開機載入程式
+		Grub 開機載入程式
 	開機修復軟體 | Boot Recovery Software
-		Boot-Repair開機修復軟體
+		Boot-Repair 開機修復軟體
 	系統管理軟體 | System Management Software
-		webmin Web介面的系統管理軟體
-		GNOME控制中心
+		webmin Web 介面的系統管理軟體
+		GNOME 控制中心
 	桌面環境 | Desktop Environment
-		KDE Plasma桌面環境
-		GNOME桌面環境
+		KDE Plasma 桌面環境
+		GNOME 桌面環境
 		Unity 3D桌面環境
 		Unity 2D桌面環境
-		LXDE桌面環境
-		Cinnamon桌面環境
+		LXDE 桌面環境
+		Cinnamon 桌面環境
 			官方穩定版本 PPA 軟體來源
 				https://launchpad.net/~gwendal-lebihan-dev/+archive/cinnamon-stable
 				ppa:gwendal-lebihan-dev/cinnamon-stable
@@ -147,38 +149,38 @@
 			官方穩定版本 PPA 軟體來源
 				https://launchpad.net/~razor-qt/+archive/ppa/
 	終端機模擬軟體 | Terminal Emulator Software
-		GNOME終端機模擬軟體
-		Konsole終端機模擬軟體
-		TTY終端機模擬軟體
-		xterm終端機模擬軟體
-		byobu終端機模擬軟體
+		GNOME 終端機模擬軟體
+		Konsole 終端機模擬軟體
+		TTY 終端機模擬軟體
+		xterm 終端機模擬軟體
+		byobu 終端機模擬軟體
 	電腦虛擬化軟體 | Computer Virtualization Software
-		VirtualBox電腦虛擬化軟體
-		qemu電腦虛擬化軟體
+		VirtualBox 電腦虛擬化軟體
+		qemu 電腦虛擬化軟體
 	顯示管理員軟體 | Display Manager Software
-		LightDM顯示管理員軟體
-		GDM顯示管理員軟體
-		KDM顯示管理員軟體
+		LightDM 顯示管理員軟體
+		GDM 顯示管理員軟體
+		KDM 顯示管理員軟體
 	工作管理員 | Task Manager
-		htop工作管理員
-		top工作管理員
+		htop 工作管理員
+		top 工作管理員
 	軟體管理工具相關軟體 | Software Management Tool Related Software
-		Synaptic軟體包裹管理程式
-		apt-fast多thread下載APT前端工具
+		Synaptic 軟體包裹管理程式
+		apt-fast 多thread下載APT前端工具
 		apt-get APT軟體包裹管理系統前端工具
 	資料備份軟體 | Data Backup Software
-		FSarchiver基於檔案的磁碟分割區備份工具
+		FSarchiver 基於檔案的磁碟分割區備份工具
 		再生龍(CloneZilla) - 基於區塊裝置(block device)的磁碟／磁碟分割驅備份工具
 	資訊安全相關檢測軟體
-		Rootkit Hunter Rootkit程式檢測軟體
+		Rootkit Hunter Rootkit 程式檢測軟體
 			官方網站
 				http://www.rootkit.nl/projects/rootkit_hunter.html
 個人化軟體 | Customization Software
 	動畫效果相關軟體 | Animation Effect Related Software
-		xsnow讓桌面具有聖誕動畫效果的軟體
+		xsnow 讓桌面具有聖誕動畫效果的軟體
 	Dock軟體 | Dock Software
-		docky Dock軟體
-		Cairo-Dock Dock軟體
+		docky Dock 軟體
+		Cairo-Dock Dock 軟體
 	圖示主題 | Icon theme
 		Faenza icon theme
 			官方網站 | Official site
@@ -192,30 +194,30 @@
 		pbzip2 以multithread方式進行bzip2壓縮的檔案壓縮程式
 		7zip多格式支援檔案封裝程式
 	檔案管理軟體 | File Management Software
-		Dolphin檔案管理軟體
-		Nautilus檔案管理軟體
+		Dolphin 檔案管理軟體
+		Nautilus 檔案管理軟體
 裝置相關軟體 | Device Related Software
 	MTP裝置管理程式 | MTP Device Management Software
-		qlix MTP裝置管理程式
-		gMTP MTP裝置管理程式
+		qlix MTP 裝置管理程式
+		gMTP MTP 裝置管理程式
 	按鍵對應設定軟體
-		keyTouch Editor按鍵對應設定編輯器
+		keyTouch Editor 按鍵對應設定編輯器
 	品牌電腦專有功能支援軟體
-		Lapsus筆記型電腦專有功能支援軟體
+		Lapsus 筆記型電腦專有功能支援軟體
 			專案網站
 				http://lapsus.berlios.de/
 	可開機存儲媒體製作工具 | Bootable Media Making Tools
-		multisystems可開機媒體製作程式
-		unetbootin可開機媒體製作程式
+		multisystems 可開機媒體製作程式
+		unetbootin 可開機媒體製作程式
 	觸控裝置校正工具 | Touch Device Calibration Tools
-		xinput calibrator觸控螢幕校正工具
+		xinput calibrator 觸控螢幕校正工具
 			官方網站
 				http://www.freedesktop.org/wiki/Software/xinput_calibrator
 			軟體問題追蹤系統
 				https://github.com/tias/xinput_calibrator/issues
 	磁碟相關軟體 | Disk Related Software
 		檔案系統去分散(defragmentation)軟體 | Filesystem Defragmentation Software
-			Shake檔案系統去分散(defragmentation)軟體
+			Shake 檔案系統去分散(defragmentation)軟體
 				官方網站 | Official Site
 					http://www.vleu.net/shake/
 				官方釋出版本軟體來源
@@ -223,23 +225,23 @@
 遊戲相關軟體 | Game software
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲 | Logic/Strategy Game
-		KNetWalk網路連線連接模擬軟體
-		0 A.D.文明發展戰略遊戲
+		KNetWalk 網路連線連接模擬軟體
+		0 A.D. 文明發展戰略遊戲
 			官方網站 | Official Site
 				http://www.wildfiregames.com/0ad/
 			官方釋出版本軟體來源
 				https://launchpad.net/~wfg/+archive/0ad
 				ppa:wfg/0ad
 	競速遊戲 | Racing Game
-		Supertuxkart賽車遊戲
+		Supertuxkart 賽車遊戲
 文句查詢／翻譯與轉碼軟體
-	convmv檔案名稱文字編碼轉換工具
+	convmv 檔案名稱文字編碼轉換工具
 程式執行平台 | Program Execution Platform
-	Python直譯器
-	Wine Windows平台程式相容層
-	PlayOnLinux Wine Windows平台程式相容層前端(frontend)程式
+	Python 直譯器
+	Wine Windows 平台程式相容層
+	PlayOnLinux Wine Windows 平台程式相容層前端(frontend)程式
 		描述 | Description
-			能降低Wine Windows平台程式相容層 使用障礙的軟體
+			能降低 Wine Windows 平台程式相容層 使用障礙的軟體
 		官方網站
 			http://www.playonlinux.com/
 	
