@@ -55,6 +55,8 @@
 		PCmanX BBS客戶端軟體
 		OpenSSH遠端終端機客戶端軟體
 		Telnet遠端終端機客戶端軟體
+	網路文字上傳空間客戶端軟體
+		pastebinit 網路文字上傳空間客戶端軟體
 生產力軟體 | Productivity Software
 	純文字編輯器 | Plaintext Editors
 		Kate純文字編輯器
@@ -99,6 +101,12 @@
 		sm大字報產生工具
 	食譜相關軟體 | Recipe Related Software
 		Gourmet食譜管理工具
+	剪貼簿相關軟體
+		xclip 剪貼簿存取軟體
+	標籤語言編輯器
+		ReText 標籤語言編輯器
+			官方 PPA 軟體來源
+				https://launchpad.net/~mitya57/+archive/ppa
 系統相關軟體 | System Related Software
 	系統設定輔助軟體 | System setting auxilary software
 		Ubuntu Tweak ubuntu GNU/Linux散佈版本設定輔助軟體
