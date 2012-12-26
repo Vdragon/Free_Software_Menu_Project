@@ -175,6 +175,11 @@
 		Rootkit Hunter Rootkit 程式檢測軟體
 			官方網站
 				http://www.rootkit.nl/projects/rootkit_hunter.html
+	系統開機畫面相關軟體
+		Plymouth 開機畫面相關
+			Plymouth 管理器
+				官方 PPA 軟體來源
+					https://launchpad.net/~mefrio-g/+archive/plymouthmanager
 個人化軟體 | Customization Software
 	動畫效果相關軟體 | Animation Effect Related Software
 		xsnow 讓桌面具有聖誕動畫效果的軟體
