@@ -227,6 +227,10 @@
 					http://www.vleu.net/shake/
 				官方釋出版本軟體來源
 					https://launchpad.net/~un-brice/+archive/ppa
+		SSD TRIM 命令相關工具
+			fstrim
+				一言以敝之
+					對固態硬碟的特定檔案系統的可用空間做 discard 操作的軟體
 遊戲相關軟體 | Game software
 	遊戲機模擬器軟體 | Game Console Emulator
 	邏輯／戰略遊戲 | Logic/Strategy Game
