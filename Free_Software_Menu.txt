@@ -7,7 +7,7 @@
 		Eidete 螢幕畫面錄製軟體
 			https://launchpad.net/eidete
 	多媒體播放軟體 | Multimedia Player
-		XMBC 家庭劇院
+		Kodi 家庭劇院
 		banshee 影音播放器
 		VLC 影音播放器
 		FBreader 電子書閱讀軟體
