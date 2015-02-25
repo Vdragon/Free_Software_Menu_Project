@@ -32,6 +32,8 @@
 	Web瀏覽器 | Web Browsers
 		Mozilla Firefox Web 瀏覽器
 		Chromium 網頁瀏覽器
+		Qupzilla 輕量級網頁瀏覽器
+		Midori 輕量級網頁瀏覽器
 	FTP客戶端軟體 | FTP Client Software
 		FileZilla FTP 客戶端軟體
 	Microblogging 客戶端軟體
