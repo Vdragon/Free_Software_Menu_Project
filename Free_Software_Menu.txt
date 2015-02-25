@@ -124,6 +124,7 @@
 		GNU/Linux 作業系統 Ubuntu散佈版本
 		GNU/Linux 作業系統 Linux Mint散佈版本
 		GNU/Linux 作業系統 Fedora散佈版本
+		GNU/Linux 作業系統 Chakra散佈版本
 		FreeBSD 作業系統
 		FreeDOS 作業系統
 		Android 作業系統
