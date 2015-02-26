@@ -8,8 +8,12 @@
 			https://launchpad.net/eidete
 	多媒體播放軟體 | Multimedia Player
 		Kodi 家庭劇院
+		mplayer 影音播放器
+		mpv 影音播放器
+		bomi 影音播放器
 		banshee 影音播放器
 		VLC 影音播放器
+		SMPlayer 影音播放器
 		FBreader 電子書閱讀軟體
 	網路攝影機相關軟體 | Webcam Related Software
 		guvcview 網路攝影機照相／錄影軟體
