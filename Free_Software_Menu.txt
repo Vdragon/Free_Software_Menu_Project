@@ -107,6 +107,7 @@
 		sm 大字報產生工具
 	食譜相關軟體 | Recipe Related Software
 		Gourmet 食譜管理工具
+		Krecipes 食譜管理工具
 	剪貼簿相關軟體
 		xclip 剪貼簿存取軟體
 	標籤語言編輯器
