@@ -88,10 +88,12 @@
 			LibreOffice Calc 試算表軟體
 			LibreOffice Math 方程式編輯器軟體
 		Calligra辦公室應用套裝軟體
-			Calligra WordGNU/Linux 作業系統s 文書處理軟體
+			Calligra Words 文書處理軟體
 			Calligra Sheets 試算表軟體
 			Calligra Flow 流程圖製作軟體
 			Calligra Plan 專案管理軟體
+			Calligra Stage 簡報軟體
+			Calligra Author 電子書製作軟體
 	財務管理軟體
 		GnuCash 財務管理軟體
 			官方網站 | Official Site
