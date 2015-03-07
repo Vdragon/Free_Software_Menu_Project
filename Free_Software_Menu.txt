@@ -80,6 +80,7 @@
 		VirtualBox 虛擬機器軟體
 	繪圖軟體 | Drawing Software
 		GIMP 繪圖軟體
+		Inkscape 向量圖繪圖軟體
 	辦公室應用套裝軟體 | Office Application Software Suite
 		LibreOffice辦公室應用套裝軟體
 			LibreOffice Writer 文書處理軟體
