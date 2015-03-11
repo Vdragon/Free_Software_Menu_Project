@@ -49,6 +49,7 @@
 	伺服器軟體 | Server Software
 		Apache Web 伺服器軟體
 		FileZilla FTP 伺服器軟體
+		nginx 伺服器軟體
 	網路掃描工具 | Network Scanner
 		Autoscan-Network 網路掃描工具
 	網路監聽工具 | Network Sniffer
