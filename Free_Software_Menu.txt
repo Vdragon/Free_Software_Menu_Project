@@ -173,6 +173,7 @@
 		LightDM 顯示管理員軟體
 		GDM 顯示管理員軟體
 		KDM 顯示管理員軟體
+		MDM 顯示管理員軟體
 	工作管理員 | Task Manager
 		htop 工作管理員
 		top 工作管理員
