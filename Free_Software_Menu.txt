@@ -70,6 +70,7 @@
 		Gedit 純文字編輯器
 		Notepad++ 純文字編輯器
 		Vim 純文字編輯器
+		Emacs 純文字編輯器
 	軟體開發相關軟體 | Software Development Related Software
 		Web開發相關軟體 | Web Development Related Software
 			Bluefish 主要適用於Web開發的純文字編輯器
